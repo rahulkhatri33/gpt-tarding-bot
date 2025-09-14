@@ -1,0 +1,28 @@
+
+*****************TO USE DISCORD notifications in any file
+
+
+from utils.discord_logger import send_discord_log
+
+send_discord_log("🚀 ML Runner booted.")
+send_discord_log("📉 BTC just hit ATR drop zone."
+
+
+
+
+
+********* To delete all cache files 
+
+
+	find . -name "*.pyc" -delete
+
+
+
+
+
+
+
+
+cd /Users/yogi/Documents/binance_spookY
+source venv/bin/activate
+python3 -m live.runner
